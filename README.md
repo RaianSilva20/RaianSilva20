@@ -26,5 +26,5 @@ Me Chamo Raian Oliveira da Silva, tenho 16 anos e sou de pernambuco, estou no me
 </div>
 
 
-
+<img src="https://raw.githubusercontent.com/raianoliveira/perfil/main/assinatura-raian.png" width="300">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
